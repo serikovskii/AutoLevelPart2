@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLevelPart2", "AutoLevelPart2\AutoLevelPart2.csproj", "{C021CED5-C3F2-4DFD-9F58-A1CE739C83DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C021CED5-C3F2-4DFD-9F58-A1CE739C83DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C021CED5-C3F2-4DFD-9F58-A1CE739C83DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C021CED5-C3F2-4DFD-9F58-A1CE739C83DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C021CED5-C3F2-4DFD-9F58-A1CE739C83DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33408873-9C3C-4444-9D66-417915B47CAB}
+	EndGlobalSection
+EndGlobal
